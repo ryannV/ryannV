@@ -4,15 +4,7 @@
 <p align="center">
   <img
   src="https://readme-typing-svg.demolab.com/?
-    lines=Desenvolvedor%20Full-Stack;
-          3%20anos%20atuando no mercado;
-          Evoluindo%201%%20a%20cada%20dia!;
-    &font=Fira%20Code
-    &center=true
-    &vCenter=true
-    &color=B02A10
-    &size=26
-  "
+    lines=Desenvolvedor%20Full-Stack;3%20anos%20atuando no mercado;Evoluindo%201%%20a%20cada%20dia!;&font=Fira%20Code&center=true&vCenter=true&color=B02A10&size=26"
 />
 </p>
 
@@ -22,15 +14,15 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
 <!-- Social Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ryann-victor-939b97240">
-    <img width="35px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
+    <img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/ryannvicttor">
-    <img width="35px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>
+    <img width="40px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://wa.me/5533999277685?text=Ol%C3%A1%21+Estou+aqui+pelo+seu+portf%C3%B3lio.+%F0%9F%9A%80%F0%9F%98%80">
-    <img width="35px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/?size=100&id=964RahB4l606&format=png&color=000000"/>
+    <img width="40px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/?size=100&id=964RahB4l606&format=png&color=000000"/>
   </a>
 </p>
 
@@ -42,7 +34,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -50,7 +42,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -58,7 +50,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -66,7 +58,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -74,7 +66,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -82,7 +74,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -90,7 +82,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -98,7 +90,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -106,7 +98,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -114,7 +106,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -122,7 +114,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="C#" 
     title="C#"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
@@ -138,7 +130,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -146,7 +138,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="Firebird" 
     title="Firebird"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" 
 />
@@ -154,7 +146,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="Firebase" 
     title="Firebase"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
@@ -162,7 +154,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="Oracle" 
     title="Oracle"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
@@ -170,7 +162,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="MongoDB" 
     title="MongoDB"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
@@ -178,7 +170,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="PowerBI" 
     title="PowerBI"
-    width="30px" 
+    width="40px" 
     src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
 />
 <br><br>
