@@ -170,10 +170,11 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="PowerBI" 
     title="PowerBI"
-    width="40px" 
+    width="30px" 
     src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
 />
 
+<br><br>
 ---
 
 ### Estatísticas
