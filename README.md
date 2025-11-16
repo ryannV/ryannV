@@ -30,149 +30,155 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
 ### 🤖 Linguagens e Tecnologias
 
 <br>
-<img 
+
+<div style="text-align: center">
+    <img 
     align="left" 
     alt="HTML"
     title="HTML" 
     width="40px" 
     style="padding: 0 10px 0 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
+    />
+    <img 
+        align="left" 
+        alt="CSS" 
+        title="CSS"
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="JavaScript" 
+        title="JavaScript"
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="TypeScript"
+        title="TypeScript" 
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="React"
+        title="React" 
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Next.js" 
+        title="Next.js"
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Bootstrap"
+        title="Bootstrap" 
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Git" 
+        title="Git"
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Python" 
+        title="Python"
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+</div>
+
+<div style="text-align: center">
+    <img 
     align="left" 
     alt="Java" 
     title="Java"
     width="40px" 
     style="padding: 0 10px 0 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="25px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Firebird" 
-    title="Firebird"
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Firebase" 
-    title="Firebase"
-    width="38px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Oracle" 
-    title="Oracle"
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="40px" 
-    style="padding: 0 10px 0 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PowerBI" 
-    title="PowerBI"
-    width="40px" 
-    src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
-/>
+    />
+    <img 
+        align="left" 
+        alt="C#" 
+        title="C#"
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Figma" 
+        title="Figma"
+        width="25px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="MySQL" 
+        title="MySQL"
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Firebird" 
+        title="Firebird"
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Firebase" 
+        title="Firebase"
+        width="38px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Oracle" 
+        title="Oracle"
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="MongoDB" 
+        title="MongoDB"
+        width="40px" 
+        style="padding: 0 10px 0 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="PowerBI" 
+        title="PowerBI"
+        width="40px" 
+        src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
+    />
+</div>
 
 <br><br><br><br>
 
