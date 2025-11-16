@@ -146,7 +146,7 @@ Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerai
     align="left" 
     alt="Firebase" 
     title="Firebase"
-    width="40px" 
+    width="38px" 
     style="padding: 0 10px 0 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
