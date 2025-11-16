@@ -1,19 +1,194 @@
-## Olá eu sou o Ryann Victor (RV) ✋ 
+# 💻   Ryann Victor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryann-victor-939b97240/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryannvicttor/)
+<!-- Maquina de Escrever -->
+<p align="center">
+  <img
+  src="https://readme-typing-svg.demolab.com/?
+    lines=Desenvolvedor%20Full-Stack;
+          3%20anos%20atuando no mercado;
+          Evoluindo%201%%20a%20cada%20dia!;
+    &font=Fira%20Code
+    &center=true
+    &vCenter=true
+    &color=B02A10
+    &size=26
+  "
+/>
+</p>
 
-![Ryann Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=ryannv&show_icons=true&theme=radical)
+<!-- Sobre -->
+Me chamo Ryann Victor Vieira Miranda, tenho 21 anos e sou natural de Minas Gerais. Estou finalizando a graduação em Engenharia de Software pela Unileste e acumulo 3 anos de experiência na área de TI, atuando como estagiário de back-end e dados, além de analista de suporte para um sistema desktop. Também possuo experiência em desenvolvimento web, criando ferramentas internas para otimizar o trabalho do setor de Suporte. Sou apaixonado por tecnologia e por transformar problemas em soluções eficientes.
+<br><br>
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryann-victor-939b97240">
+    <img width="35px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/ryannvicttor">
+    <img width="35px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://wa.me/5533999277685?text=Ol%C3%A1%21+Estou+aqui+pelo+seu+portf%C3%B3lio.+%F0%9F%9A%80%F0%9F%98%80">
+    <img width="35px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/?size=100&id=964RahB4l606&format=png&color=000000"/>
+  </a>
+</p>
 
-## Tecnologias na qual eu utilizo!
-<div style="display: inline_block"><br/>
-    <img text-align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img text-align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img text-align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img text-align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-     <img text-align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div><br>
+---
+### 🤖 Linguagens e Tecnologias
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannV&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<br><br>
+<img 
+    align="left" 
+    alt="Firebird" 
+    title="Firebird"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Firebase" 
+    title="Firebase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
+/>
+<br><br>
 
-### Paixão em tecnologia e, criatividade me inspira, trabalhar honestamente atrás dos meus sonhos, gentileza nunca é demais, ajudar o próximo não atrasa sua caminhada, talvez o que alguém precisa poder vir de você!
+---
+
+### Estatísticas
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RyannV&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyannV&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" />
+</div>
